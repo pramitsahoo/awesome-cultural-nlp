@@ -27,6 +27,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ## Survey
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| Survey of Cultural Awareness in Language Models: Text and Beyond | Arxiv 2024 | https://arxiv.org/pdf/2411.00860 | []() | []() |
 | Culturally Aware and Adapted NLP: A Taxonomy and a Survey of the State of the Art | Arxiv 2024 | [2406.03930](https://arxiv.org/pdf/2406.03930) | []() | []() |
 | Towards Measuring and Modeling “Culture” in LLMs: A Survey | Arxiv 2024 | [2403.15412](https://arxiv.org/pdf/2403.15412) | [Github](https://github.com/faridlazuarda/cultural-llm-papers) | Cool paper! |
 | Challenges and Strategies in Cross-Cultural NLP | ACL 2022 | [2203.10020](https://arxiv.org/abs/2203.10020) | []() | []() |
@@ -35,6 +36,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ## Dataset
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| Multi3Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision–Language Models | NAACL 2025 | https://aclanthology.org/2025.naacl-long.490/ | [Code](https://github.com/MinhDucBui/Multi3Hate) | [HF Datasets](https://huggingface.co/datasets/MinhDucBui/Multi3Hate) | 
 | GIMMICK -- Globally Inclusive Multimodal Multitask Cultural Knowledge Benchmarking | Arxiv 2025 | [2502.13766](https://arxiv.org/abs/2502.13766) | [floschne/gimmick](https://github.com/floschne/gimmick) | [HF Datasets](https://huggingface.co/floschne) | 
 | WorldCuisines: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines | Arxiv 2024 | [2410.12705](https://arxiv.org/pdf/2410.12705) | [Code, Data, and Leaderboard](https://worldcuisines.github.io/) | Data |
 |FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture| EMNLP 2024 | https://aclanthology.org/2024.emnlp-main.1063/ | [Code](https://github.com/lyan62/FoodieQA) [Data](https://huggingface.co/datasets/lyan62/FoodieQA)| Data|
@@ -101,6 +103,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ### VLMs
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| Multi3Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision–Language Models | NAACL 2025 | https://aclanthology.org/2025.naacl-long.490/ | [Code](https://github.com/MinhDucBui/Multi3Hate) | [HF Datasets](https://huggingface.co/datasets/MinhDucBui/Multi3Hate) | 
 | GIMMICK -- Globally Inclusive Multimodal Multitask Cultural Knowledge Benchmarking | Arxiv 2025 | [2502.13766](https://arxiv.org/abs/2502.13766) | [floschne/gimmick](https://github.com/floschne/gimmick) | [HF Datasets](https://huggingface.co/floschne) | 
 | From Local Concepts to Universals: Evaluating the Multicultural Understanding of Vision-Language Models | Arxiv 2024 | [2407.00263](https://arxiv.org/pdf/2407.00263) | []() | []() |
 |  |  | []() | []() | []() |
@@ -136,6 +139,7 @@ Personas in LLMs | Arxiv 2024 | [2406.13993](https://arxiv.org/pdf/2406.13993) |
 ### VLMs
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| Grounding Multilingual Multimodal LLMs With Cultural Knowledge | Arxiv 2025 | https://arxiv.org/pdf/2508.07414 | | | 
 | Multilingual Diversity Improves Vision-Language Representations | Arxiv 2024 | [2405.16915](https://arxiv.org/pdf/2405.16915) | []() | []() |
 | No Filter: Cultural and Socioeconomic Diversity in Contrastive Vision–Language Models | Arxiv 2024 |[2405.13777](https://arxiv.org/pdf/2405.13777) | []() | []() |
 | Computer Vision Datasets and Models Exhibit Cultural and Linguistic Diversity in Perception | Arxiv 2024 | [2310.14356](https://arxiv.org/pdf/2310.14356) | []() | []() |
@@ -158,6 +162,7 @@ Personas in LLMs | Arxiv 2024 | [2406.13993](https://arxiv.org/pdf/2406.13993) |
 ### Models
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| Cultural Learning-Based Culture Adaptation of Language Models | ACL 2025 | https://aclanthology.org/2025.acl-long.156.pdf |  | []() |
 | CultureLLM: Incorporating Cultural Differences into Large Language Models | NeurIPS 2024 | [2402.10946](https://arxiv.org/abs/2402.10946) | [Code](https://github.com/Scarelette/CultureLLM) | []() |
 | Investigating Cultural Alignment of Large Language Models | Arxiv 2024 | [2402.13231](https://arxiv.org/pdf/2402.13231) | []() | []() |
 | Unintended Impacts of LLM Alignment on Global Representation | Arxiv 2024 | [2402.15018](https://arxiv.org/abs/2402.15018) | []() | []() |
