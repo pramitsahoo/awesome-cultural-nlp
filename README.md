@@ -63,6 +63,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences | ACL 2020 | [2020.acl-main.477/](https://aclanthology.org/2020.acl-main.477/) | []() | []() |
 | SocialDial: A Benchmark for Socially-Aware Dialogue Systems | SIGIR 2023 | [3539618.3591877](https://dl.acm.org/doi/10.1145/3539618.3591877) | [Data](https://github.com/zhanhl316/SocialDial) | Data+Analysis+New Application |
 | RENOVI: A Benchmark Towards Remediating Norm Violations in Socio-Cultural Conversations | NAACL Findings 2024 | [2024.findings-naacl.196](https://aclanthology.org/2024.findings-naacl.196/) | [Data](https://github.com/zhanhl316/ReNoVi) | Data+Analysis+New Application |
+| DIWALI - Diversity and Inclusivity aWare cuLture specific Items for India: Dataset and Assessment of LLMs for Cultural Text Adaptation in Indian Context | EMNLP Main (Oral) 2025 | [2509.17399](https://arxiv.org/abs/2509.17399) | [Dataset](https://huggingface.co/datasets/nlip/DIWALI) | [Project Page](https://nlip-lab.github.io/nlip/publications/diwali/) |
 |  |  | []() | []() | []() |
 
 ## Image Captioning
