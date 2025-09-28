@@ -134,7 +134,7 @@ Personas in LLMs | Arxiv 2024 | [2406.13993](https://arxiv.org/pdf/2406.13993) |
 | Multilingual Language Models are not Multicultural: A Case Study in Emotion | WASSA: ACL 2023 | [2307.01370](https://arxiv.org/abs/2307.01370) | []() | []() |
 | Social Commonsense for Explanation and Cultural Bias Discovery |  | []() | []() | []() |
 | DOSA: A Dataset of Social Artifacts from Different Indian Geographical Subcultures | LREC-COLING 2024 | [2403.14651](https://arxiv.org/abs/2403.14651) | [Code](https://github.com/microsoft/DOSA) | []() |
-|  |  | []() | []() | []() |
+| Attributing Culture-Conditioned Generations to Pretraining Corpora | ICLR 2025 | [2412.20760](https://arxiv.org/abs/2412.20760) | [Code](https://github.com/huihanlhh/CultureGenAttr) | []() |
 
 ### VLMs
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
