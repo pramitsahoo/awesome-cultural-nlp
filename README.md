@@ -35,6 +35,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ## Dataset
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| DIWALI - Diversity and Inclusivity aWare cuLture specific Items for India: Dataset and Assessment of LLMs for Cultural Text Adaptation in Indian Context | EMNLP Main (Oral) 2025 | [2509.17399](https://arxiv.org/abs/2509.17399) | [Dataset](https://huggingface.co/datasets/nlip/DIWALI) [Code](https://github.com/pramitsahoo/culture-evaluation) [Project Page](https://nlip-lab.github.io/nlip/publications/diwali/)| Data, Cultural Text Adaptation, LLM as Evaluator, Analysis |
 | GIMMICK -- Globally Inclusive Multimodal Multitask Cultural Knowledge Benchmarking | Arxiv 2025 | [2502.13766](https://arxiv.org/abs/2502.13766) | [floschne/gimmick](https://github.com/floschne/gimmick) | [HF Datasets](https://huggingface.co/floschne) | 
 | WorldCuisines: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines | Arxiv 2024 | [2410.12705](https://arxiv.org/pdf/2410.12705) | [Code, Data, and Leaderboard](https://worldcuisines.github.io/) | Data |
 |FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture| EMNLP 2024 | https://aclanthology.org/2024.emnlp-main.1063/ | [Code](https://github.com/lyan62/FoodieQA) [Data](https://huggingface.co/datasets/lyan62/FoodieQA)| Data|
@@ -63,7 +64,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences | ACL 2020 | [2020.acl-main.477/](https://aclanthology.org/2020.acl-main.477/) | []() | []() |
 | SocialDial: A Benchmark for Socially-Aware Dialogue Systems | SIGIR 2023 | [3539618.3591877](https://dl.acm.org/doi/10.1145/3539618.3591877) | [Data](https://github.com/zhanhl316/SocialDial) | Data+Analysis+New Application |
 | RENOVI: A Benchmark Towards Remediating Norm Violations in Socio-Cultural Conversations | NAACL Findings 2024 | [2024.findings-naacl.196](https://aclanthology.org/2024.findings-naacl.196/) | [Data](https://github.com/zhanhl316/ReNoVi) | Data+Analysis+New Application |
-| DIWALI - Diversity and Inclusivity aWare cuLture specific Items for India: Dataset and Assessment of LLMs for Cultural Text Adaptation in Indian Context | EMNLP Main (Oral) 2025 | [2509.17399](https://arxiv.org/abs/2509.17399) | [Dataset](https://huggingface.co/datasets/nlip/DIWALI) | [Project Page](https://nlip-lab.github.io/nlip/publications/diwali/) |
+
 |  |  | []() | []() | []() |
 
 ## Image Captioning
