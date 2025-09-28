@@ -36,6 +36,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ## Dataset
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| DIWALI - Diversity and Inclusivity aWare cuLture specific Items for India: Dataset and Assessment of LLMs for Cultural Text Adaptation in Indian Context | EMNLP Main (Oral) 2025 | [2509.17399](https://arxiv.org/abs/2509.17399) | [Dataset](https://huggingface.co/datasets/nlip/DIWALI), [Code](https://github.com/pramitsahoo/culture-evaluation), [Project Page](https://nlip-lab.github.io/nlip/publications/diwali/)| Data, Cultural Text Adaptation, LLM as Evaluator, Analysis |
 | Multi3Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision–Language Models | NAACL 2025 | https://aclanthology.org/2025.naacl-long.490/ | [Code](https://github.com/MinhDucBui/Multi3Hate) | [HF Datasets](https://huggingface.co/datasets/MinhDucBui/Multi3Hate) | 
 | GIMMICK -- Globally Inclusive Multimodal Multitask Cultural Knowledge Benchmarking | Arxiv 2025 | [2502.13766](https://arxiv.org/abs/2502.13766) | [floschne/gimmick](https://github.com/floschne/gimmick) | [HF Datasets](https://huggingface.co/floschne) | 
 | WorldCuisines: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines | Arxiv 2024 | [2410.12705](https://arxiv.org/pdf/2410.12705) | [Code, Data, and Leaderboard](https://worldcuisines.github.io/) | Data |
@@ -65,6 +66,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences | ACL 2020 | [2020.acl-main.477/](https://aclanthology.org/2020.acl-main.477/) | []() | []() |
 | SocialDial: A Benchmark for Socially-Aware Dialogue Systems | SIGIR 2023 | [3539618.3591877](https://dl.acm.org/doi/10.1145/3539618.3591877) | [Data](https://github.com/zhanhl316/SocialDial) | Data+Analysis+New Application |
 | RENOVI: A Benchmark Towards Remediating Norm Violations in Socio-Cultural Conversations | NAACL Findings 2024 | [2024.findings-naacl.196](https://aclanthology.org/2024.findings-naacl.196/) | [Data](https://github.com/zhanhl316/ReNoVi) | Data+Analysis+New Application |
+
 |  |  | []() | []() | []() |
 
 ## Image Captioning
@@ -86,6 +88,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ### LLMs
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| DIWALI - Diversity and Inclusivity aWare cuLture specific Items for India: Dataset and Assessment of LLMs for Cultural Text Adaptation in Indian Context | EMNLP Main (Oral) 2025 | [2509.17399](https://arxiv.org/abs/2509.17399) | [Dataset](https://huggingface.co/datasets/nlip/DIWALI), [Code](https://github.com/pramitsahoo/culture-evaluation), [Project Page](https://nlip-lab.github.io/nlip/publications/diwali/)| Data, Cultural Text Adaptation, LLM as Evaluator, Analysis |
 | Cultural Conditioning or Placebo? On the Effectiveness of Socio-Demographic Prompting | Arxiv 2024 | [2406.11661](https://arxiv.org/pdf/2406.11661) | []() | []() |
 | Extrinsic Evaluation of Cultural Competence in Large Language Models | Arxiv 2024 | [2406.11565](https://arxiv.org/pdf/2406.11565) | []() | []() |
 | CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs’ (Lack of) Multicultural Knowledge | Arxiv 2024 | [2404.06664](https://arxiv.org/pdf/2404.06664) | []() | []() |
@@ -126,6 +129,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ### LLMs
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| DIWALI - Diversity and Inclusivity aWare cuLture specific Items for India: Dataset and Assessment of LLMs for Cultural Text Adaptation in Indian Context | EMNLP Main (Oral) 2025 | [2509.17399](https://arxiv.org/abs/2509.17399) | [Dataset](https://huggingface.co/datasets/nlip/DIWALI), [Code](https://github.com/pramitsahoo/culture-evaluation), [Project Page](https://nlip-lab.github.io/nlip/publications/diwali/)| Data, Cultural Text Adaptation, LLM as Evaluator, Analysis |
 | The Echoes of Multilinguality: Tracing Cultural Value Shifts during LM Fine-tuning | ACL 2024 | [2405.12744](https://arxiv.org/pdf/2405.12744) | []() | []() |
 | Exploring Changes in Nation Perception with Nationality-Assigned
 Personas in LLMs | Arxiv 2024 | [2406.13993](https://arxiv.org/pdf/2406.13993) | []() | []() |
