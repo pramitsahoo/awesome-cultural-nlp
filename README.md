@@ -126,6 +126,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ### LLMs
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| DIWALI - Diversity and Inclusivity aWare cuLture specific Items for India: Dataset and Assessment of LLMs for Cultural Text Adaptation in Indian Context | EMNLP Main (Oral) 2025 | [2509.17399](https://arxiv.org/abs/2509.17399) | [Dataset](https://huggingface.co/datasets/nlip/DIWALI), [Code](https://github.com/pramitsahoo/culture-evaluation), [Project Page](https://nlip-lab.github.io/nlip/publications/diwali/)| Data, Cultural Text Adaptation, LLM as Evaluator, Analysis |
 | The Echoes of Multilinguality: Tracing Cultural Value Shifts during LM Fine-tuning | ACL 2024 | [2405.12744](https://arxiv.org/pdf/2405.12744) | []() | []() |
 | Exploring Changes in Nation Perception with Nationality-Assigned
 Personas in LLMs | Arxiv 2024 | [2406.13993](https://arxiv.org/pdf/2406.13993) | []() | []() |
